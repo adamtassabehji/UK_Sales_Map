@@ -7,3 +7,5 @@ This visualization is tailored for a London-based retailer looking to grow their
 
 
 **Download the HTML file and open with your preferred browser**
+
+![Screen Recording 2024-03-23 at 16 16 15](https://github.com/adamtassabehji/UK_Sales_Map/assets/56136026/feed9470-ec99-4e2b-bc4d-217a3046b952)
